@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sql-execute"
+version = "0.1.0"
+description = ""
+authors = ["Tim Herron <timsy@timsydev.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyodbc = "^5.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

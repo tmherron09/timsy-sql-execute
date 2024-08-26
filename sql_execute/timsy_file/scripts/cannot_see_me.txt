@@ -1,0 +1,1 @@
+This text file should not be found when searching for SQL files.
